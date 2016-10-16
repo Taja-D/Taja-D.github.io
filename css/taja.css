@@ -1,0 +1,28 @@
+body {
+	background-color: #005288;
+	color: white;
+	margin-left: 10%;
+}
+
+.special {
+	font-family: sans-serif;
+	font-style: italic;
+}
+
+#head {
+	background-color: #B26300;
+	margin-top: 5%;
+	margin-bottom: 10px;
+}
+
+#main {
+	margin-left: 5%;
+}
+
+#main li {
+	line-height: 15px;
+}
+
+#main li:hover {
+	background-color: red;
+}
